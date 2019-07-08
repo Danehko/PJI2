@@ -12,7 +12,7 @@ Além disso deve ser alterado no arquivo Comunica_SS o parametro Host para o ip 
 
 Para executar o arquivo mainSS.py você deve passar 1 parametros sendo ele o ip do Sistema Auditor.
 ```
-python3 mainSR.py "speter" 1 1 "N"
+python3 mainSR.py "192.168.1.142"
 ```
 Além disso deve ser alterado no arquivo Comunica_SR o parametro Host para o ip do Sistema Supervisório e no arquivo Recebe_SR também deve alterar o parametro Host para o ip do Robô
 
